@@ -1,10 +1,9 @@
 ---
 name: ten-principles-audit
-description: Systematically evaluate any design, product, process, or artifact against
-  Dieter Rams' Ten Principles of Good Design to identify specific improvements.
+description: Systematically evaluate any design, product, process, or artifact against Dieter Rams' Ten Principles of Good Design to identify specific improvements.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - ten-principles-audit
